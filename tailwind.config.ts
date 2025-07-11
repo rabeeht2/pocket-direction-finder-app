@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				compass: {
+					bg: 'hsl(var(--compass-bg))',
+					ring: 'hsl(var(--compass-ring))',
+					text: 'hsl(var(--compass-text))',
+					accent: 'hsl(var(--compass-accent))',
+					north: 'hsl(var(--compass-north))',
+					needle: 'hsl(var(--compass-needle))',
+					center: 'hsl(var(--compass-center))'
 				}
 			},
 			borderRadius: {
